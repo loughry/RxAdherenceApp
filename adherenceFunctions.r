@@ -1,4 +1,4 @@
-library(ntlpGlobals)
+#library(ntlpGlobals)
 library(xts)
 
 ## lenOfTherapy assumes valid data, returns integer

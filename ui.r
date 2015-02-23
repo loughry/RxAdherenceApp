@@ -1,6 +1,6 @@
 library(shiny)
 library(MASS)
-library(ISLR)
+##library(ISLR)
 
 colRng <- 1:100  # hard coded for now, needs to be based on data size
 ##dataNms <- c("one","two")
